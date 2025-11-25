@@ -1,0 +1,5 @@
+admin cfokp345 admin
+FC001 rcuu345 faculty
+std123 rcuu345 student
+2410870 cv345 student
+2418370 cv345 student

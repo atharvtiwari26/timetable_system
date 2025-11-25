@@ -1,0 +1,11 @@
+FC001 Imam Zoology
+F001 Prof_Anjali_Rawat Computer_Science_and_Engineer
+FC002 Dr_Prateek_Shrivastav Computer_Science_and_Engineer
+F004 Dr_Nikhil_Mehta Electrical_Engineering
+F009 Prof_Manish_Rawat Mechanical_Engineering
+F008 Prof_Pooja_Jain Civil_Engineering
+F005 Prof_Swati_Gupta Artificial_Intelligence_and_M
+Prof_Shik ha_Sharma Mathematics
+Prof_Moni ka_Thakur Physics
+F007 Dr_Anand_Verma Chemistry
+F010 Prof_Sagar_Tiwari English

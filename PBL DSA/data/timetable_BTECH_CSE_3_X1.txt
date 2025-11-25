@@ -1,0 +1,14 @@
+0 0 1 TCS301 DSA Prof_Agarwal LT101 G1 Lecture
+0 0 1 TCS501 ML  Prof_Sharma  LT101 G2 Lecture      <-- ROOM CONFLICT
+
+0 1 1 TCS302 OOPS Prof_Agarwal LT201 G1 Lecture
+0 1 1 TCS401 OS   Prof_Agarwal LT202 G2 Lecture     <-- FACULTY CONFLICT
+
+1 2 1 TCS205 MATH Prof_Kapoor  LT301 G1 -
+1 5 1 TCS701 CLOUD Prof_Verma  LT209 G2 -
+
+2 3 1 TCS601 TOC Prof_Gupta LT303 G1 -
+2 4 1 TCS501 ML  Prof_Sharma LT304 G1 -
+
+3 1 0 - - - - - -
+3 2 0 - - - - - -

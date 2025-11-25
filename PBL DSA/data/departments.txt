@@ -1,0 +1,14 @@
+Zoology
+Computer_Science_and_Engineer
+Electronics_and_Communication
+Electrical_Engineering
+Mechanical_Engineering
+Civil_Engineering
+Information_Technology
+Artificial_Intelligence_and_M
+Mathematics
+Physics
+Chemistry
+English
+Humanities
+Management_Studies
